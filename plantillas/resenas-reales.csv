@@ -1,0 +1,3 @@
+product_id,product_handle,title,body,rating,review_date,reviewer_name,reviewer_email,picture_urls,reply,reply_date,permiso_publicar,fuente,incentivo
+123456789,producto-ejemplo,EJEMPLO - Llegó bien,"EJEMPLO, BORRAR ANTES DE SUBIR. Aquí va el texto del cliente tal como lo escribió, con la ortografía corregida.",5,15/03/2026,Nombre A.,,,,,si,whatsapp,ninguno
+123456789,producto-ejemplo,EJEMPLO - Regular,"EJEMPLO, BORRAR ANTES DE SUBIR. Una reseña de 3 estrellas se publica igual, con la respuesta de la tienda.",3,20/03/2026,Nombre B.,,https://ejemplo.com/foto-publica.jpg,Gracias por contarnos. Ya te escribimos para resolverlo.,21/03/2026,si,whatsapp,descuento 10 %
